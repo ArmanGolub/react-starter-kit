@@ -17,6 +17,9 @@ const STACK_KEYS = [
   { name: "Framer Motion", noteKey: "home.stack.framer" },
   { name: "i18next", noteKey: "home.stack.i18next" },
   { name: "Zustand", noteKey: "home.stack.zustand" },
+  { name: "TanStack Query", noteKey: "home.stack.tanstack" },
+  { name: "React Hook Form", noteKey: "home.stack.hookForm" },
+  { name: "Zod", noteKey: "home.stack.zod" },
   { name: "React Router", noteKey: "home.stack.router" },
 ];
 

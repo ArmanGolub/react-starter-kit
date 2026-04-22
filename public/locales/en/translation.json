@@ -18,6 +18,9 @@
       "framer": "Subtle, unobtrusive animations.",
       "i18next": "Multilingual out of the box (en · ru).",
       "zustand": "Global state without the boilerplate.",
+      "tanstack": "Server state, caching and devtools baked in.",
+      "hookForm": "Performant forms with minimal re-renders.",
+      "zod": "Runtime validation with inferred TypeScript types.",
       "router": "Routing and navigation."
     }
   },
