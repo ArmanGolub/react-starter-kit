@@ -1,0 +1,61 @@
+{
+  "welcome": "Добро пожаловать в ваш React-проект",
+  "goAbout": "Открыть страницу About",
+  "goHome": "Вернуться на главную",
+  "counterLabel": "Значение счётчика",
+  "increment": "Увеличить",
+  "decrement": "Уменьшить",
+  "home": {
+    "heroSubtitle": "Лаконичный шаблон на Vite + React + TypeScript — всё уже настроено, можно сразу писать фичи.",
+    "stackLabel": "Стек",
+    "counterHint": "Хранится в Zustand-сторе — доступен на всех страницах.",
+    "stack": {
+      "vite": "Быстрый dev-сервер и сборка без ожиданий.",
+      "react": "Актуальная версия React с новым компилятором.",
+      "typescript": "Полная типизация во всём проекте.",
+      "tailwind": "Utility-классы и темизация через CSS-токены.",
+      "shadcn": "Готовые компоненты — код остаётся у вас.",
+      "framer": "Лёгкие и ненавязчивые анимации.",
+      "i18next": "Мультиязычность из коробки (en · ru).",
+      "zustand": "Глобальное состояние без лишнего кода.",
+      "router": "Роутинг, навигация."
+    }
+  },
+  "boom": {
+    "label": "Error boundary",
+    "hint": "Нажмите кнопку, чтобы бросить ошибку и увидеть фолбэк граничного обработчика.",
+    "action": "Запустить boom"
+  },
+  "quotes": {
+    "label": "Случайная цитата",
+    "loading": "Загрузка…",
+    "error": "Не удалось загрузить цитату.",
+    "refresh": "Новая цитата"
+  },
+  "about": {
+    "title": "О проекте",
+    "description": "Этот стартер объединяет Vite, React, TypeScript, Tailwind, shadcn/ui, Framer Motion, i18next, Zustand и React Router в единую связку. Надёжная основа для дашбордов, внутренних инструментов и полноценных веб-приложений.",
+    "contactLabel": "Контакты",
+    "contactTitle": "Есть вопрос или идея?",
+    "form": {
+      "name": "Ваше имя",
+      "namePlaceholder": "Эпштейн",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "topic": "Тема",
+      "topicPlaceholder": "Предложение, баг, вопрос...",
+      "message": "Сообщение",
+      "messagePlaceholder": "Расскажите чуть подробнее, что вам нужно...",
+      "send": "Отправить",
+      "sending": "Отправка...",
+      "hint": "Демо-форма.",
+      "errors": {
+        "nameRequired": "Укажите имя",
+        "emailRequired": "Укажите email",
+        "emailInvalid": "Введите корректный email",
+        "messageRequired": "Напишите сообщение",
+        "messageTooShort": "Сообщение должно быть не короче 10 символов"
+      }
+    }
+  }
+}
